@@ -1,5 +1,4 @@
 # Ping-Pong-Game
 This is a ping-pong Game Website. 
 
-![Screenshot (1214)](https://user-images.githubusercontent.com/56336173/128701703-a9e26c62-9870-4e28-a9c2-0aebc74724c2.png)
-
+![Screenshot (1218)](https://user-images.githubusercontent.com/56336173/128703678-69f7a8ed-3c01-42e8-bdb9-76d6a253fdb2.png)
